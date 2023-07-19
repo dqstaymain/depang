@@ -1,0 +1,7 @@
+{
+  "name": "depang-ionic-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
